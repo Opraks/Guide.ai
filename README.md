@@ -38,9 +38,9 @@
     <td></td>
   </tr>
   <tr>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#F0F8FF"><center>Buy Now - 0,01ETH</center></font></a></td>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#F0F8FF"><center>Buy Now - 0,01ETH</center></font></a></td>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#F0F8FF"><center>Buy Now - 0,01ETH</center></font></a></td>
+    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Buy Now - 0,01ETH</center></font></a></td>
+    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Buy Now - 0,01ETH</center></font></a></td>
+    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Buy Now - 0,01ETH</center></font></a></td>
   </tr>
   <tr>
    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
