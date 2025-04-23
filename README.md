@@ -5,9 +5,9 @@
 </tr>
    
    <tr>
-    <th><font color="#F0F8FF"><center>Nft Generator Pc</center></font></th>
-    <th><font color="#F0F8FF"><center>Ai Timing Validator</center></font></th>
-    <th><font color="#F0F8FF"><center>Ai Computer Startup Pc</center></font></th>
+    <th><font color="#000000"><center>Nft Generator Pc</center></font></th>
+    <th><font color="#000000"><center>Ai Timing Validator</center></font></th>
+    <th><font color="#000000"><center>Ai Computer Startup Pc</center></font></th>
   </tr>
    
      
