@@ -1,4 +1,4 @@
-<h2><center><font color="#4169E1"> AI (ARTIFICIAL INTELLIGENCE) NFT COLLECTION - By Opraks Opensea </font></center></h2>
+<h2><center><font color="000033"> AI (ARTIFICIAL INTELLIGENCE) NFT COLLECTION - By Opraks Opensea </font></center></h2>
 
 <table style="width:85%">
    <tr>
