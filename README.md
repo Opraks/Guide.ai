@@ -1,4 +1,4 @@
-<table style="width:75%">
+<table style="width:85%">
   <tr>
     <th style="width:30%"><font color="#008080"> Nft Generator Pc </font></th>
     <th style="width:30%"><font color="#008080"> Ai Timing Validator </font></th>
@@ -23,7 +23,7 @@
   </tr>
 </table>
 ________________________________________________________________________________________________________________
-<table style="width:75%">
+<table style="width:85%">
   <tr>
     <th style="width:30%"><font color="#008080"> Nft Architectural Desk </font></th>
     <th style="width:30%"><font color="#008080"> Meme Generator Pc </font></th>
