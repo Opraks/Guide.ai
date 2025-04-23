@@ -27,8 +27,7 @@
  <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
  <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
 </tr>
-
-</table>
+ </table>
 
 <table style="width:100%;text-align:left;border-collapse:collapse;background-color:#FFFAF0;">
 <tr style="background-color:yellowgreen;color:#FFFAF0;">
@@ -57,5 +56,4 @@
  <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
  <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
 </tr>
-
-</table>
+ </table>
