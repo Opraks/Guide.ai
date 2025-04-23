@@ -1,6 +1,6 @@
 <h2><center><font color="000033"> AI (ARTIFICIAL INTELLIGENCE) - OPENSEA NFT COLLECTION </font></center></h2>
 
-<table style="width:85%">
+<table style="width:87%">
    <tr>
     <th style="width:30%"><font color="#008080"> Nft Generator Pc </font></th>
     <th style="width:30%"><font color="#008080"> Ai Timing Validator </font></th>
@@ -25,7 +25,7 @@
   </tr>
 </table>
 ________________________________________________________________________________________________________________
-<table style="width:85%">
+<table style="width:87%">
   <tr>
     <th style="width:30%"><font color="#008080"> Nft Architectural Desk </font></th>
     <th style="width:30%"><font color="#008080"> Meme Generator Pc </font></th>
