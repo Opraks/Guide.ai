@@ -51,7 +51,3 @@ ________________________________________________________________________________
     <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>(Opensea - Opraks)</center></a></td>
   </tr>
 </table>
-
-<video width="312" height="312" controls="controls">
-  <source src="https://drive.google.com/file/d/1QzNH4SwDPhI1Ehy7IZCnTHfnQn8hw_dQ/view?usp=sharing" type="Nft Generator Pc" />
-</video>
