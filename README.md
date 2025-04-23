@@ -1,9 +1,7 @@
-<table style="width:85%">
-  <tr>
-    <th style="width:85%"><font color="#4169E1"> AI (ARTIFICIAL INTELLIGENCE) NFT COLLECTION - By Opraks Opensea </font></th>
-  </tr>
+<h2><font color="#4169E1"> AI (ARTIFICIAL INTELLIGENCE) NFT COLLECTION - By Opraks Opensea </font></h2>
 
-  <tr>
+<table style="width:85%">
+   <tr>
     <th style="width:30%"><font color="#008080"> Nft Generator Pc </font></th>
     <th style="width:30%"><font color="#008080"> Ai Timing Validator </font></th>
     <th style="width:30%"><font color="#008080"> Ai Computer Startup Pc </font></th>
