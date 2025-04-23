@@ -25,7 +25,7 @@
 </table>
 
 
-<table style="width:100%;text-align:left;border-collapse:collapse;background-color:#FFFAF0;">
+<table style="width:100%;text-align:left;border-collapse:collapse;background-color:#FFFFFF;">
       <tr style="background-color:yellowgreen;color:#FFFAF0;"></tr>
   <tr>
     <th><center>Nft Architectural Desk</center></th>
