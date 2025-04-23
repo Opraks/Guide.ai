@@ -26,7 +26,8 @@
     <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center></a></td>
   </tr>
 </table>
-________________________________________________________________________________________________________________
+
+
 <table style="width:87%">
   <tr>
     <th style="width:30%"><font color="#008080"> Nft Architectural Desk </font></th>
