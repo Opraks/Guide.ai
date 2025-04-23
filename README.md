@@ -4,7 +4,7 @@
       <tr style="background-color:yellowgreen;color:#FFFAF0;">
   </tr>
    
-     <tr>
+   <tr>
      <th><font color="#000000"><center>Nft Generator Pc</center></font></th>
      <th><font color="#000000"><center>Ai Timing Validator</center></font></th>
      <th><font color="#000000"><center>Ai Computer Startup Pc</center></font></th>
