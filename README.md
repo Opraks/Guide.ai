@@ -55,7 +55,7 @@ ________________________________________________________________________________
   </tr>
 </table>
 
-<video width="360" height="320" controls="controls">
-  <source src="https://opensea.io/assets/matic/0xcc5d26c1f69a858d89fc4245f78c9ab7c4ffdf61/11/" type="Nft Generator Pc" />
+<video width="312" height="312" controls="controls">
+  <source src="https://drive.google.com/file/d/1QzNH4SwDPhI1Ehy7IZCnTHfnQn8hw_dQ/view?usp=sharing" type="Nft Generator Pc" />
   Tarayıcınız video etiketini desteklemiyor.
 </video>
