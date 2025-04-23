@@ -10,14 +10,11 @@
     <th><font color="#000000"><center>Ai Computer Startup Pc</center></font></th>
   </tr>
     
-  <tr>
- </td>
+  <tr></td>
     
-  <td>
-  </td>
+  <td></td>
     
-  <td>
-  </td>
+  <td></td>
   
 </tr>
 
@@ -32,7 +29,6 @@
     <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
     <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
   </tr>
-  
 </table>
 
 <table style="width:100%;text-align:left;border-collapse:collapse;background-color:#FFFAF0;">
@@ -44,14 +40,11 @@
     <th><font color="#000000"><center>Nft Create Studio</center></font></th>
   </tr>
 
-  <tr>
- </td>
+  <tr></td>
     
-  <td>
- </td>
+  <td></td>
 
-  <td>
-  </td>
+  <td></td>
   
 </tr>
  
