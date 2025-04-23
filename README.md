@@ -5,9 +5,9 @@
 </tr>
    
    <tr>
-    <th style="width:25%"><font color="#1E90FF">Nft Generator Pc</font></th>
-    <th style="width:25%"><font color="#1E90FF">Ai Timing Validator</font></th>
-    <th style="width:25%"><font color="#1E90FF">Ai Computer Startup Pc</font></th>
+    <th style="width:25%"><font color="#1E90FF"><center>Nft Generator Pc</center></font></th>
+    <th style="width:25%"><font color="#1E90FF"><center>Ai Timing Validator</center></font></th>
+    <th style="width:25%"><font color="#1E90FF"><center>Ai Computer Startup Pc</center></font></th>
   </tr>
    
      
@@ -35,9 +35,9 @@
 	<tr style="background-color:yellowgreen;color:#FFFAFA;">
 </tr>		
   <tr>
-    <th style="width:25%"><font color="#1E90FF">Nft Architectural Desk</font></th>
-    <th style="width:25%"><font color="#1E90FF">Meme Generator Pc</font></th>
-    <th style="width:25%"><font color="#1E90FF">Nft Create Studio</font></th>
+    <th style="width:25%"><font color="#1E90FF"><center>Nft Architectural Desk</center></font></th>
+    <th style="width:25%"><font color="#1E90FF"><center>Meme Generator Pc</center></font></th>
+    <th style="width:25%"><font color="#1E90FF"><center>Nft Create Studio</center></font></th>
   </tr>
 
   <tr>
