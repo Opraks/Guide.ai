@@ -1,6 +1,6 @@
 <table style="width:100%">
   <tr>
-    <th style="width:30%">Nft Generator Pc</th>
+    <th style="width:30%", style="height:45%">Nft Generator Pc</th>
     <th style="width:30%">Ai Timing Validator</th>
     <th style="width:30%">Ai Computer Startup</th>
     <th style="width:30%">Nft Architectural Desk</th>
