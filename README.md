@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Buy Now - 0,01ETH</center></a></td>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Buy Now - 0,01ETH</center><</a></td>
+    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Buy Now - 0,01ETH</center></a></td>
     <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Buy Now - 0,01ETH</center></a></td>
   </tr>
   <tr>
