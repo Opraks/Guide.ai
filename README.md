@@ -53,3 +53,8 @@ ________________________________________________________________________________
     <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>(Opensea - Opraks)</center></a></td>
   </tr>
 </table>
+
+<video width="360" height="320" controls="controls">
+  <source src="https://opensea.io/assets/matic/0xcc5d26c1f69a858d89fc4245f78c9ab7c4ffdf61/11/" type="Nft Generator Pc" />
+  Tarayıcınız video etiketini desteklemiyor.
+</video>
