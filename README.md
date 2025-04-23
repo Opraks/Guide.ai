@@ -5,9 +5,9 @@
 </tr>
    
    <tr>
-    <th style="width:25%"><font color="#1E90FF"> Nft Generator Pc </font></th>
-    <th style="width:25%"><font color="#1E90FF"> Ai Timing Validator </font></th>
-    <th style="width:25%"><font color="#1E90FF"> Ai Computer Startup Pc </font></th>
+    <th style="width:25%"><font color="#1E90FF">Nft Generator Pc</font></th>
+    <th style="width:25%"><font color="#1E90FF">Ai Timing Validator</font></th>
+    <th style="width:25%"><font color="#1E90FF">Ai Computer Startup Pc</font></th>
   </tr>
    
      
@@ -35,9 +35,9 @@
 	<tr style="background-color:yellowgreen;color:#F5F5F5;">
 </tr>		
   <tr>
-    <th style="width:25%"><font color="#1E90FF"> Nft Architectural Desk </font></th>
-    <th style="width:25%"><font color="#1E90FF"> Meme Generator Pc </font></th>
-    <th style="width:25%"><font color="#1E90FF"> Nft Create Studio </font></th>
+    <th style="width:25%"><font color="#1E90FF">Nft Architectural Desk</font></th>
+    <th style="width:25%"><font color="#1E90FF">Meme Generator Pc</font></th>
+    <th style="width:25%"><font color="#1E90FF">Nft Create Studio</font></th>
   </tr>
 
   <tr>
@@ -54,9 +54,9 @@
 </tr>
  
   <tr>
-    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"> <center>Opensea - Opraks </center></a></td>
-    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"> <center>Opensea - Opraks </center></a></td>
-    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"> <center>Opensea - Opraks </center></a></td>
+    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center></a></td>
+    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center></a></td>
+    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center></a></td>
   </tr>
   
 </table>
