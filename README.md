@@ -1,7 +1,8 @@
 <table style="width:85%">
   <tr>
-    <th style="width:30%">Nft Architectural Desk</th>
-    <th style="width:30%">Meme Generator Pc</th>
+    <th style="width:30%">Nft Generator Pc</th>
+    <th style="width:30%">Ai Timing Validator</th>
+    <th style="width:30%">Ai Computer Startup Pc</th>
   </tr>
   
   <tr>
@@ -26,6 +27,7 @@
   <tr>
     <th style="width:30%">Nft Architectural Desk</th>
     <th style="width:30%">Meme Generator Pc</th>
+    <th style="width:30%">Nft Create Studio</th>
   </tr>
 
   <tr>
