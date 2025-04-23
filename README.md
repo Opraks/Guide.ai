@@ -8,7 +8,7 @@
        <th><font color="#000000"><center>Nft Generator Pc</center></font></th>
        <th><font color="#000000"><center>Ai Timing Validator</center></font></th>
        <th><font color="#000000"><center>Ai Computer Startup Pc</center></font></th>
-</tr>
+ </tr>
 
   <tr>    
        <tr></td>
