@@ -16,9 +16,9 @@
 </tr>
 
   <tr>
-    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center>.</a></td>
-    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center>.</a></td>
-    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center>.</a></td>
+    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center></a></td>
+    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center></a></td>
+    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center></a></td>
   </tr>
 </table>
 ________________________________________________________________________________________________________________
@@ -43,8 +43,8 @@ ________________________________________________________________________________
 </tr>
 
   <tr>
-    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center>.</a></td>
-    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center>.</a></td>
-    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center>.</a></td>
+    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center></a></td>
+    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center></a></td>
+    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center></a></td>
   </tr>
 </table>
