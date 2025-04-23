@@ -4,7 +4,7 @@
       <tr style="background-color:yellowgreen;color:#FFFAF0;"></tr>
   <tr>
     <th><center>Nft Generator Pc</center></th>
-    <th><<center>Ai Timing Validator</center></th>
+    <th><center>Ai Timing Validator</center></th>
     <th><center>Ai Computer Startup Pc</center></th>
   </tr>
   <tr>
@@ -28,7 +28,7 @@
 <table style="width:100%;text-align:left;border-collapse:collapse;background-color:#FFFAF0;">
       <tr style="background-color:yellowgreen;color:#FFFAF0;"></tr>
   <tr>
-    <th><<center>Nft Architectural Desk</center></th>
+    <th><center>Nft Architectural Desk</center></th>
     <th><center>Meme Generator Pc</center></th>
     <th><center>Nft Create Studio</center></th>
   </tr>
