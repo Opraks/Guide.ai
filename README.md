@@ -1,6 +1,9 @@
 <h2><center><font color="000033"> AI (ARTIFICIAL INTELLIGENCE) - OPENSEA NFT COLLECTION </font></center></h2>
 
 <table style="width:87%">
+   table { background-color: #ff0000; }
+   tr { background-color: #F5F5F5; }
+   td { background-color: #F5F5F5; }
    <tr>
     <th style="width:25%"><font color="#1E90FF"> Nft Generator Pc </font></th>
     <th style="width:25%"><font color="#1E90FF"> Ai Timing Validator </font></th>
