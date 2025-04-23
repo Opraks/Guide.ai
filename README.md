@@ -1,6 +1,5 @@
 <h2><center><font color="000033"> (AI) ARTIFICIAL INTELLIGENCE - OPENSEA NFT COLLECTION </font></center></h2>
 
-<center>
 <table style="width:100%;text-align:left;border-collapse:collapse;background-color:#FFFAF0;">
       <tr style="background-color:yellowgreen;color:#FFFAF0;"></tr>
   <tr>
@@ -49,4 +48,4 @@
    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
   </tr>
 </table>
-</center>
+
