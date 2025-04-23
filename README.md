@@ -21,10 +21,10 @@
 </tr>
 
   <tr>
-    <td style="height: 40px;">Opensea - Opraks</td>
-    <td style="height: 40px;">Opensea - Opraks</td>
-    <td style="height: 40px;">Opensea - Opraks</td>
-    <td style="height: 40px;">Opensea - Opraks</td>
-    <td style="height: 40px;">Opensea - Opraks</td>
+    <td style="height: 40px;"><center>Opensea - Opraks</center></td>
+    <td style="height: 40px;"><center>Opensea - Opraks</center></td>
+    <td style="height: 40px;"><center>Opensea - Opraks</center></td>
+    <td style="height: 40px;"><center>Opensea - Opraks</center></td>
+    <td style="height: 40px;"><center>Opensea - Opraks</center></td>
   </tr>
 </table>
