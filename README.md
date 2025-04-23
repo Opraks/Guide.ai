@@ -1,13 +1,13 @@
 <h2><center><font color="000033"> AI (ARTIFICIAL INTELLIGENCE) - OPENSEA NFT COLLECTION </font></center></h2>
 
-<table style="width:100%;text-align:left;border-collapse:collapse;background-color:#F0F8FF;">
- <tr style="background-color:yellowgreen;color:#F0F8FF;">
+<table style="width:100%;text-align:left;border-collapse:collapse;background-color:#000000;">
+ <tr style="background-color:yellowgreen;color:#000000;">
 </tr>
    
    <tr>
-    <th><font color="#000000"><center>Nft Generator Pc</center></font></th>
-    <th><font color="#000000"><center>Ai Timing Validator</center></font></th>
-    <th><font color="#000000"><center>Ai Computer Startup Pc</center></font></th>
+    <th><font color="#F0F8FF"><center>Nft Generator Pc</center></font></th>
+    <th><font color="#F0F8FF"><center>Ai Timing Validator</center></font></th>
+    <th><font color="#F0F8FF"><center>Ai Computer Startup Pc</center></font></th>
   </tr>
    
      
@@ -54,9 +54,9 @@
 </tr>
  
   <tr>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Buy Now - 0,01ETH</center></font></a></td>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Buy Now - 0,01ETH</center></font></a></td>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Buy Now - 0,01ETH</center></font></a></td>
+    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#F0F8FF"><center>Buy Now - 0,01ETH</center></font></a></td>
+    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#F0F8FF"><center>Buy Now - 0,01ETH</center></font></a></td>
+    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#F0F8FF"><center>Buy Now - 0,01ETH</center></font></a></td>
   </tr>
   
 </table>
