@@ -33,6 +33,7 @@
 
 <table style="width:87%;text-align:left;border-collapse:collapse;background-color:#000000;">
 	<tr style="background-color:yellowgreen;color:#F5F5F5;">
+</tr>		
   <tr>
     <th style="width:25%"><font color="#1E90FF"> Nft Architectural Desk </font></th>
     <th style="width:25%"><font color="#1E90FF"> Meme Generator Pc </font></th>
