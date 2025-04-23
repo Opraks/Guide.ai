@@ -1,6 +1,6 @@
 <h2><center><font color="000033"> (AI) ARTIFICIAL INTELLIGENCE - OPENSEA NFT COLLECTION </font></center></h2>
 
-<table style="width:100%;text-align:left;border-collapse:collapse;background-color:#FFFFFF;">
+<table style="width:85%;text-align:left;border-collapse:collapse;background-color:#FFFFFF;">
       <tr style="background-color:yellowgreen;color:#FFFAF0;"></tr>
   <tr>
     <th><center>Nft Generator Pc</center></th>
