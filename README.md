@@ -32,7 +32,7 @@
 
 
 <table style="width:100%;text-align:left;border-collapse:collapse;background-color:#000000;">
-	<tr style="background-color:yellowgreen;color:#FFFAFA;">
+	<tr style="background-color:yellowgreen;color:#000000;">
 </tr>		
   <tr>
     <th style="width:25%"><font color="#F0FFFF"><center>Nft Architectural Desk</center></font></th>
