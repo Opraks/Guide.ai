@@ -1,13 +1,13 @@
 <h2><center><font color="000033"> AI (ARTIFICIAL INTELLIGENCE) - OPENSEA NFT COLLECTION </font></center></h2>
 
 <table style="width:100%;text-align:left;border-collapse:collapse;background-color:#000000;">
- <tr style="background-color:yellowgreen;color:#FFFAFA;">
+ <tr style="background-color:yellowgreen;color:#000000;">
 </tr>
    
    <tr>
-    <th style="width:25%"><font color="#1E90FF"><center>Nft Generator Pc</center></font></th>
-    <th style="width:25%"><font color="#1E90FF"><center>Ai Timing Validator</center></font></th>
-    <th style="width:25%"><font color="#1E90FF"><center>Ai Computer Startup Pc</center></font></th>
+    <th style="width:25%"><font color="#F0FFFF"><center>Nft Generator Pc</center></font></th>
+    <th style="width:25%"><font color="#F0FFFF"><center>Ai Timing Validator</center></font></th>
+    <th style="width:25%"><font color="#F0FFFF"><center>Ai Computer Startup Pc</center></font></th>
   </tr>
    
      
@@ -35,9 +35,9 @@
 	<tr style="background-color:yellowgreen;color:#FFFAFA;">
 </tr>		
   <tr>
-    <th style="width:25%"><font color="#1E90FF"><center>Nft Architectural Desk</center></font></th>
-    <th style="width:25%"><font color="#1E90FF"><center>Meme Generator Pc</center></font></th>
-    <th style="width:25%"><font color="#1E90FF"><center>Nft Create Studio</center></font></th>
+    <th style="width:25%"><font color="#F0FFFF"><center>Nft Architectural Desk</center></font></th>
+    <th style="width:25%"><font color="#F0FFFF"><center>Meme Generator Pc</center></font></th>
+    <th style="width:25%"><font color="#F0FFFF"><center>Nft Create Studio</center></font></th>
   </tr>
 
   <tr>
