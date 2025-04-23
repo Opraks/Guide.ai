@@ -45,9 +45,9 @@ ________________________________________________________________________________
   </td>
   
 </tr>
-
+ 
   <tr>
-    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks Quantity x10 </center></a></td>
+    <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks</center></a> <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Quantity x10</center></a></td>
     <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks Quantity x10</center></a></td>
     <td style="height:40px"><a href=" https://opensea.io/Opraks" target="_blank"><center>Opensea - Opraks Quantity x10</center></a></td>
   </tr>
