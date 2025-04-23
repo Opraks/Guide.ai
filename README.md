@@ -1,1 +1,2 @@
 <a href="https://opensea.io/assets/matic/0xcc5d26c1f69a858d89fc4245f78c9ab7c4ffdf61/11/" target="_blank">Nft Generator Pc</a>
+<iframe width="560" height="315" src="https://opensea.io/assets/matic/0xcc5d26c1f69a858d89fc4245f78c9ab7c4ffdf61/11/" title="Nft Generator Pc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
