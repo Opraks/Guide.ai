@@ -22,7 +22,7 @@
     <td style="height:40px"><center>Opensea - Opraks</center></td>
   </tr>
 </table>
-
+________________________________________________________________________________________________________________
 <table style="width:85%">
   <tr>
     <th style="width:30%">Nft Architectural Desk</th>
