@@ -3,9 +3,9 @@
 <table style="width:100%;text-align:left;border-collapse:collapse;background-color:#FFFAF0;">
       <tr style="background-color:yellowgreen;color:#FFFAF0;"></tr>
   <tr>
-    <th><font color="#000000"><center>Nft Generator Pc</center></font></th>
-    <th><font color="#000000"><center>Ai Timing Validator</center></font></th>
-    <th><font color="#000000"><center>Ai Computer Startup Pc</center></font></th>
+    <th><center>Nft Generator Pc</center></th>
+    <th><<center>Ai Timing Validator</center></th>
+    <th><center>Ai Computer Startup Pc</center></th>
   </tr>
   <tr>
     <td></td>
@@ -13,14 +13,14 @@
     <td></td>
   </tr>
   <tr>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Buy Now - 0,01ETH</center></font></a></td>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Buy Now - 0,01ETH</center></font></a></td>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Buy Now - 0,01ETH</center></font></a></td>
+    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Buy Now - 0,01ETH</center></a></td>
+    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Buy Now - 0,01ETH</center></a></td>
+    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Buy Now - 0,01ETH</center></a></td>
   </tr>
   <tr>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
+    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Quantity x10</center></a></td>
+    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Quantity x10</center></a></td>
+    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Quantity x10</center></a></td>
   </tr>
 </table>
 
@@ -28,9 +28,9 @@
 <table style="width:100%;text-align:left;border-collapse:collapse;background-color:#FFFAF0;">
       <tr style="background-color:yellowgreen;color:#FFFAF0;"></tr>
   <tr>
-    <th><font color="#000000"><center>Nft Architectural Desk</center></font></th>
-    <th><font color="#000000"><center>Meme Generator Pc</center></font></th>
-    <th><font color="#000000"><center>Nft Create Studio</center></font></th>
+    <th><<center>Nft Architectural Desk</center></th>
+    <th><center>Meme Generator Pc</center></th>
+    <th><center>Nft Create Studio</center></th>
   </tr>
   <tr>
     <td></td>
@@ -38,14 +38,14 @@
     <td></td>
   </tr>
   <tr>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Buy Now - 0,01ETH</center></font></a></td>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Buy Now - 0,01ETH</center></font></a></td>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Buy Now - 0,01ETH</center></font></a></td>
+    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Buy Now - 0,01ETH</center></a></td>
+    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Buy Now - 0,01ETH</center><</a></td>
+    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Buy Now - 0,01ETH</center></a></td>
   </tr>
   <tr>
-   <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
-   <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
-   <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
+   <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Quantity x10</center></a></td>
+   <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Quantity x10</center></a></td>
+   <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Quantity x10</center></a></td>
   </tr>
 </table>
 
