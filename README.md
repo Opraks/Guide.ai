@@ -1,8 +1,5 @@
 <table style="width:85%">
   <tr>
-    <th style="width:30%">Nft Generator Pc</th>
-    <th style="width:30%">Ai Timing Validator</th>
-    <th style="width:30%">Ai Computer Startup</th>
     <th style="width:30%">Nft Architectural Desk</th>
     <th style="width:30%">Meme Generator Pc</th>
   </tr>
@@ -23,8 +20,6 @@
     <td style="height:40px"><center>Opensea - Opraks</center></td>
     <td style="height:40px"><center>Opensea - Opraks</center></td>
     <td style="height:40px"><center>Opensea - Opraks</center></td>
-    <td style="height:40px"><center>Opensea - Opraks</center></td>
-    <td style="height:40px"><center>Opensea - Opraks</center></td>
   </tr>
 </table>
 
@@ -34,9 +29,17 @@
     <th style="width:30%">Meme Generator Pc</th>
   </tr>
 
+  <tr>
    <td style="height:40px"><blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Check out this item on OpenSea <a href="https://t.co/f17j1jAPcf">https://t.co/f17j1jAPcf</a> via <a href="https://twitter.com/opensea?ref_src=twsrc%5Etfw">@opensea</a></p>&mdash; Sait Berki (@BerkiSait52105) <a href="https://twitter.com/BerkiSait52105/status/1914978522365313480?ref_src=twsrc%5Etfw">April 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </td>
+ </td>
     
   <td style="height:40px"><blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Check out this item on OpenSea <a href="https://t.co/7rkpCWuoSS">https://t.co/7rkpCWuoSS</a> via <a href="https://twitter.com/opensea?ref_src=twsrc%5Etfw">@opensea</a></p>&mdash; Sait Berki (@BerkiSait52105) <a href="https://twitter.com/BerkiSait52105/status/1914978852624834698?ref_src=twsrc%5Etfw">April 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </td> 
+ </td>
+  </tr>
+
+    <tr>
+    <td style="height:40px"><center>Opensea - Opraks</center></td>
+    <td style="height:40px"><center>Opensea - Opraks</center></td>
+    <td style="height:40px"><center>Opensea - Opraks</center></td>
+  </tr>
 </table>
