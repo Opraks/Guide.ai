@@ -30,8 +30,8 @@
  </table>
 
 <table style="width:100%;text-align:left;border-collapse:collapse;background-color:#FFFAF0;">
-<tr style="background-color:yellowgreen;color:#FFFAF0;">
-</tr>
+ <tr style="background-color:yellowgreen;color:#FFFAF0;">
+  </tr>
 	
 <tr>
  <th><font color="#000000"><center>Nft Architectural Desk</center></font></th>
@@ -51,9 +51,10 @@
  <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#F0F8FF"><center>Buy Now - 0,01ETH</center></font></a></td>
 </tr>
 
- <tr>
+<tr>
  <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
  <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
  <td><a href=" https://opensea.io/Opraks" target="_blank"><font color="#000000"><center>Quantity x10</center></font></a></td>
-</tr>
-</table>
+ </tr>
+ 
+ </table>
