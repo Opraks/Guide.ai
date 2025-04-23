@@ -7,8 +7,7 @@
     <th style="width:30%">Meme Generator Pc</th>
   </tr>
   <tr>
-    <td style="height: 40px;">
-      <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Check out this item on OpenSea <a href="https://t.co/85IzMNnOXA">https://t.co/85IzMNnOXA</a> via <a href="https://twitter.com/opensea?ref_src=twsrc%5Etfw">@opensea</a></p>&mdash; Sait Berki (@BerkiSait52105) <a href="https://twitter.com/BerkiSait52105/status/1914972881060036820?ref_src=twsrc%5Etfw">April 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <td style="height: 40px;"><blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Check out this item on OpenSea <a href="https://t.co/85IzMNnOXA">https://t.co/85IzMNnOXA</a> via <a href="https://twitter.com/opensea?ref_src=twsrc%5Etfw">@opensea</a></p>&mdash; Sait Berki (@BerkiSait52105) <a href="https://twitter.com/BerkiSait52105/status/1914972881060036820?ref_src=twsrc%5Etfw">April 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </td>
     
     <td>
