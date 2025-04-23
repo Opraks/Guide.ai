@@ -1,7 +1,7 @@
 <h2><center><font color="000033"> AI (ARTIFICIAL INTELLIGENCE) - OPENSEA NFT COLLECTION </font></center></h2>
 
-<table style="width:100%;text-align:left;border-collapse:collapse;background-color:#000000;">
- <tr style="background-color:yellowgreen;color:#000000;">
+<table style="width:100%;text-align:left;border-collapse:collapse;background-color:#FFFAF0;">
+ <tr style="background-color:yellowgreen;color:#FFFAF0;">
 </tr>
    
    <tr>
@@ -31,8 +31,8 @@
 </table>
 
 
-<table style="width:100%;text-align:left;border-collapse:collapse;background-color:#F0F8FF;">
-	<tr style="background-color:yellowgreen;color:#F0F8FF;">
+<table style="width:100%;text-align:left;border-collapse:collapse;background-color:#FFFAF0;">
+	<tr style="background-color:yellowgreen;color:#FFFAF0;">
 </tr>		
   <tr>
     <th><font color="#000000"><center>Nft Architectural Desk</center></font></th>
