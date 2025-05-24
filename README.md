@@ -8,3 +8,5 @@
 <b>Artificial intelligence</b> was founded as an academic discipline in <b>1956,</b> and the field went through multiple cycles of optimism throughout its history, followed by periods of disappointment and loss of funding, known as AI winters.  Funding and interest vastly increased after <b>2012</b> when graphics processing units started being used to accelerate neural networks, and deep learning outperformed previous <b>AI</b> techniques. This growth accelerated further after <b>2017</b> with the transformer architecture. In the 2020s, the period of rapid progress marked by advanced generative <b>AI</b> became known as the AI boom. Generative AI and its ability to create and modify content exposed several unintended consequences and harms in the present and raised ethical concerns about <b>AI's</b> long-term effects and potential existential risks, prompting discussions about regulatory policies to ensure the safety and benefits of the technology. <u><i>compiled by opraks</i></u>
 
 <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">Wikipedia/ Artificial Intelligence</a>
+
+<H2>Inside Blockchain Technology (Ai)</H2>
