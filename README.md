@@ -1,29 +1,8 @@
-<h2><center><font color="000033"> (AI) ARTIFICIAL INTELLIGENCE - OPENSEA NFT COLLECTION </font></center></h2>
-
-<table style="width:85%;text-align:left;border-collapse:collapse;background-color:#FFFFFF;">
-      <tr style="background-color:yellowgreen;color:#FFFAF0;"></tr>
-  <tr>
-    <th><center>Nft Generator Pc</center></th>
-    <th><center>Ai Timing Validator</center></th>
-    <th><center>Ai Computer Startup Pc</center></th>
-    <th><center>Nft Architectural Desk</center></th>
-    <th><center>Meme Generator Pc</center></th>
-    <th><center>Nft Create Studio</center></th>   
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Buy Now - 0,01ETH</center></a></td>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Buy Now - 0,01ETH</center></a></td>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Buy Now - 0,01ETH</center></a></td>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Buy Now - 0,01ETH</center></a></td>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Buy Now - 0,01ETH</center></a></td>
-    <td><a href=" https://opensea.io/Opraks" target="_blank"><center>Buy Now - 0,01ETH</center></a></td>
-  </tr>
-</table>
+<H2>WHAT IS ARTIFICIAL INTELLIGENCE (AI) IN TECHNOLOGY?</H2>
+<H2>ARTIFICIAL INTELLIGENCE (AI) USAGE AREAS</H2>
+<H2>ARTIFICIAL INTELLIGENCE (AI) INTEGRATION INTO BLOCKCHAIN ​​TECHNOLOGY</H2>
+<H2>NFT</H2>
+<H2>MEME</H2>
+<H2>IMAGE</H2>
+<H2>MOVIE</H2>
+<H2>MUSIC</H2>
