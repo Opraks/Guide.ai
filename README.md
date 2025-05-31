@@ -1,6 +1,8 @@
 <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/coinMarquee.js"></script><div id="coinmarketcap-widget-marquee" coins="1027,28321,2396,6210,4943,6993" currency="USD" theme="light" transparent="false" show-symbol-logo="true"></div>
+
 <center><a href="https://info.flagcounter.com/00WA"><img src="https://s01.flagcounter.com/count2/00WA/bg_030000/txt_FFFFFF/border_FFFFFF/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a></center>
-<h1>WHAT IS ARTIFICIAL INTELLIGENCE <u>(AI)</u> IN TECHNOLOGY?</h1>
+
+<center><h1>WHAT IS ARTIFICIAL INTELLIGENCE <u>(AI)</u> IN TECHNOLOGY?</h1></center>
 
 <h2><u>Definition</u></h2>
 <b>Artificial intelligence</b> is an artificial operating system that exhibits higher cognitive functions or autonomous behaviors typical of human intelligence, according to an idealized perspective. This system should have the ability to perceive, learn, connect multiple concepts, think, reason (state), solve problems, communicate, and make decisions. In addition, this artificial intelligence system should be able to produce reactions from its thoughts <b>(agent artificial intelligence)</b> and physically express these reactions.
