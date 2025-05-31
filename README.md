@@ -17,7 +17,8 @@ Example of digital art used as an <b>NFT</b>
 <h2><u>Market Value</u></h2>
 The <b>NFT Market</b> has seen rapid growth recently, with its value tripling to <b>$250 Million</b> in <b>2020.</b> More than <b>$200 Million</b> was spent on <b>NFTs</b> in the first three months of <b>2021</b> alone. The economic momentum of <b>NFTs</b> in the crypto market has exploded due to a trend toward digital collectibles. <b>NFTs</b> are also accelerating a larger trend of digital economic innovation as the public increasingly embraces the crypto economy. <b>Some NFT Markets:</b> <a href="https://opensea.io/" target="_blank">Opensea, </a><a href="https://web3.okx.com/" target="_blank">Okx, </a> <a href="https://rarible.com/" target="_blank">Rarible, </a>< <a href="https://magiceden.io/" target="_blank">Magic Eden</a> <b>See Also:</b> <a href="https://tr.wikipedia.org/wiki/Blok_zinciri" target="_blank">Block Chain, </a> <a href="https://tr.wikipedia.org/wiki/Kripto_sanat" target="_blank">Crypto Art, </a> <a href="https://tr.wikipedia.org/wiki/Dijital_Sanat" target="_blank">Digital Art, </a>
 
+<hr>
 - <b>Source:</b> <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"> Wikipedia/ Artificial Intelligence</a>
 - <b>Compiled by:</b> <a href="https://opensea.io/collection/nft-ai-opraks" target="_blank"> Opraks</a>
-
+<hr>
 <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=67540d39231a330012e9230e&product=sticky-share-buttons&source=platform" async="async"></script>
