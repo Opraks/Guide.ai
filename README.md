@@ -23,4 +23,9 @@ Example of digital art used as an <b>NFT</b>
 <h2><u>Market Value</u></h2>
 The <b>NFT Market</b> has seen rapid growth recently, with its value tripling to <b>$250 Million</b> in <b>2020.</b> More than <b>$200 Million</b> was spent on <b>NFTs</b> in the first three months of <b>2021</b> alone. The economic momentum of <b>NFTs</b> in the crypto market has exploded due to a trend toward digital collectibles. <b>NFTs</b> are also accelerating a larger trend of digital economic innovation as the public increasingly embraces the crypto economy.
 
+<h3><u>See Also</u></h3>
+<u><a href="https://tr.wikipedia.org/wiki/Blok_zinciri" target="_blank">Block Chain</a></u>
+<u><a href="https://tr.wikipedia.org/wiki/Kripto_sanat" target="_blank">Crypto Art</a></u>
+<u><a href="https://tr.wikipedia.org/wiki/Dijital_Sanat" target="_blank">Digital Art</a></u>
+
 <u><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">Wikipedia/ Artificial Intelligence</a></u>
