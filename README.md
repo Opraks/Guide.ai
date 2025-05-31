@@ -2,7 +2,7 @@
 <center>
 <iframe data-aa='2396715' src='//ad.a-ads.com/2396715?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
 </center>
-<h3>Definition</h3>
+<h3><u>Definition</u></h3>
 <b>Artificial intelligence</b> is an artificial operating system that exhibits higher cognitive functions or autonomous behaviors typical of human intelligence, according to an idealized perspective. This system should have the ability to perceive, learn, connect multiple concepts, think, reason (state), solve problems, communicate, and make decisions. In addition, this artificial intelligence system should be able to produce reactions from its thoughts <b>(agent artificial intelligence)</b> and physically express these reactions.
 
 <b>Artificial intelligence (AI)</b> Various subfields of AI research are centered around particular goals and the use of particular tools. The traditional goals of AI research include learning, reasoning, knowledge representation, planning, natural language processing, perception, and support for robotics. To reach these goals, AI researchers have adapted and integrated a wide range of techniques, including search and mathematical optimization, formal logic, artificial neural networks, and methods based on statistics, operations research, and economics. AI also draws upon psychology, linguistics, philosophy, neuroscience, and other fields. Some companies, such as <b>OpenAI, Google DeepMind and Meta,</b> aim to create artificial general intelligence (AG) AI that can complete virtually any cognitive task at least as well as humans.
