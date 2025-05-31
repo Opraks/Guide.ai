@@ -10,8 +10,6 @@
 
 <b>Artificial intelligence</b> was founded as an academic discipline in <b>1956,</b> and the field went through multiple cycles of optimism throughout its history, followed by periods of disappointment and loss of funding, known as AI winters.  Funding and interest vastly increased after <b>2012</b> when graphics processing units started being used to accelerate neural networks, and deep learning outperformed previous <b>AI</b> techniques. This growth accelerated further after <b>2017</b> with the transformer architecture. In the 2020s, the period of rapid progress marked by advanced generative <b>AI</b> became known as the AI boom. Generative AI and its ability to create and modify content exposed several unintended consequences and harms in the present and raised ethical concerns about <b>AI's</b> long-term effects and potential existential risks, prompting discussions about regulatory policies to ensure the safety and benefits of the technology. <u><i>compiled by opraks</i></u>
 
-<u><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">Wikipedia/ Artificial Intelligence</a></u>
-
 <H2>Inside Blockchain Technology (Ai)</H2>
 It appears as <b>NFT</b> (“Non Fungible Token”) in <b>Ai Blockchain...</b>
 An <b>NFT</b> is a data file that is stored on a digital ledger called the <b>Blockchain</b> and can be traded. An <b>NFT</b> can be associated with a specific asset <b><u>(digital or physical)</u></b>, such as an image, a piece of art, music, or a sports event record. In <b>2021,</b> interest in <b>NFTs</b> has increased. <b>Blockchains</b> like <u>Ethereum,</u> <b>Flow,</b> and <b>Tezos</b> have their own standards for supporting <b>NFTs,</b> but each works to ensure that the digital asset represented is unique in its own way. <b>NFTs</b> are now being used to commodify digital assets in art, music, sports, and other popular entertainment. Most <b>NFTs</b> are part of the <b>Ethereum Blockchain,</b> but other <b>Blockchains</b> may implement their own versions of <b>NFTs.</b>
@@ -25,3 +23,4 @@ Example of digital art used as an <b>NFT</b>
 <h3><u>Market Value</u></h3>
 The <b>NFT Market</b> has seen rapid growth recently, with its value tripling to <b>$250 Million</b> in <b>2020.</b> More than <b>$200 Million</b> was spent on <b>NFTs</b> in the first three months of <b>2021</b> alone. The economic momentum of <b>NFTs</b> in the crypto market has exploded due to a trend toward digital collectibles. <b>NFTs</b> are also accelerating a larger trend of digital economic innovation as the public increasingly embraces the crypto economy.
 
+<u><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">Wikipedia/ Artificial Intelligence</a></u>
