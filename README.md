@@ -1,5 +1,3 @@
-<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=67540d39231a330012e9230e&product=sticky-share-buttons&source=platform" async="async"></script>
-
 <H2>WHAT IS ARTIFICIAL INTELLIGENCE (AI) IN TECHNOLOGY?</H2>
 
 <iframe data-aa='2396715' src='//ad.a-ads.com/2396715?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
@@ -34,3 +32,4 @@ The <b>NFT Market</b> has seen rapid growth recently, with its value tripling to
 <hr>
 - <b>Source:</b> <u><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">Wikipedia/ Artificial Intelligence</a></u>
 - <b>Compiled by</b> <u><a href="https://opensea.io/collection/nft-ai-opraks" target="_blank">Opraks</a></u>
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=67540d39231a330012e9230e&product=sticky-share-buttons&source=platform" async="async"></script>
