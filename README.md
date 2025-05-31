@@ -1,6 +1,6 @@
 <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/coinMarquee.js"></script><div id="coinmarketcap-widget-marquee" coins="1027,28321,2396,6210,4943,6993" currency="USD" theme="light" transparent="false" show-symbol-logo="true"></div>
 
-<h1>WHAT IS ARTIFICIAL INTELLIGENCE (AI) IN TECHNOLOGY?</h1>
+<img src="https://github.com/Opraks/Guide.ai/blob/main/ai%20chip.PNG?raw=true" alt="Örnek Resim"/><h1>WHAT IS ARTIFICIAL INTELLIGENCE (AI) IN TECHNOLOGY?</h1>
 
 <h2><u>Definition</u></h2>
 <b>Artificial intelligence</b> is an artificial operating system that exhibits higher cognitive functions or autonomous behaviors typical of human intelligence, according to an idealized perspective. This system should have the ability to perceive, learn, connect multiple concepts, think, reason (state), solve problems, communicate, and make decisions. In addition, this artificial intelligence system should be able to produce reactions from its thoughts <b>(agent artificial intelligence)</b> and physically express these reactions.
