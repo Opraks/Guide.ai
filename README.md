@@ -1,6 +1,5 @@
 <H2>WHAT IS ARTIFICIAL INTELLIGENCE (AI) IN TECHNOLOGY?</H2>
 
-<iframe data-aa='2396715' src='//ad.a-ads.com/2396715?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
 <h2><u>Definition</u></h2>
 <b>Artificial intelligence</b> is an artificial operating system that exhibits higher cognitive functions or autonomous behaviors typical of human intelligence, according to an idealized perspective. This system should have the ability to perceive, learn, connect multiple concepts, think, reason (state), solve problems, communicate, and make decisions. In addition, this artificial intelligence system should be able to produce reactions from its thoughts <b>(agent artificial intelligence)</b> and physically express these reactions.
 
