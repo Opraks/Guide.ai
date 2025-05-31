@@ -18,10 +18,7 @@ Example of digital art used as an <b>NFT</b>
 The <b>NFT Market</b> has seen rapid growth recently, with its value tripling to <b>$250 Million</b> in <b>2020.</b> More than <b>$200 Million</b> was spent on <b>NFTs</b> in the first three months of <b>2021</b> alone. The economic momentum of <b>NFTs</b> in the crypto market has exploded due to a trend toward digital collectibles. <b>NFTs</b> are also accelerating a larger trend of digital economic innovation as the public increasingly embraces the crypto economy.
 
 <h2><u>Some NFT Markets</u></h2>
-- <u><a href="https://opensea.io/" target="_blank">Opensea</a></u>
-- <u><a href="https://web3.okx.com/" target="_blank">Okx</a></u>
-- <u><a href="https://rarible.com/" target="_blank">Rarible</a></u>
-- <u><a href="https://magiceden.io/" target="_blank">Magic Eden</a></u>
+<u><a href="https://opensea.io/" target="_blank">Opensea, </a></u> <u><a href="https://web3.okx.com/" target="_blank">Okx, </a></u> <u><a href="https://rarible.com/" target="_blank">Rarible, </a></u> <u><a href="https://magiceden.io/" target="_blank">Magic Eden</a></u>
 
 <h3><u>See Also</u></h3>
 - <u><a href="https://tr.wikipedia.org/wiki/Blok_zinciri" target="_blank">Block Chain</a></u>
