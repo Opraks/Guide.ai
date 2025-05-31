@@ -24,4 +24,5 @@ NFT market value has tripled in 2020, to over $250 million. The rise of NFT tran
 Example of digital art used as an NFT
 NFTs of artwork are similar to signed items.The unique identity and ownership of an NFT can be verified through a blockchain ledger. NFTs have metadata processed through a cryptographic hash function.
 
-
+<h3><u>Market Value</u></h3>
+The NFT market has seen rapid growth recently, with its value tripling to $250 million in 2020. More than $200 million was spent on NFTs in the first three months of 2021 alone. The economic momentum of NFTs in the crypto market has exploded due to a trend toward digital collectibles. NFTs are also accelerating a larger trend of digital economic innovation as the public increasingly embraces the crypto economy.
