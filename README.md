@@ -31,3 +31,5 @@ The <b>NFT Market</b> has seen rapid growth recently, with its value tripling to
 - <b>Compiled by</b> <u><a href="https://opensea.io/collection/nft-ai-opraks" target="_blank">Opraks</a></u>
 
 <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=67540d39231a330012e9230e&product=sticky-share-buttons&source=platform" async="async"></script>
+
+<center1<iframe data-aa='2396715' src='//acceptable.a-ads.com/2396715' style='border:0px; padding:0; width:100%; height:100%; overflow:hidden; background-color: transparent;'></iframe></center>
