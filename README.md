@@ -33,3 +33,4 @@ The <b>NFT Market</b> has seen rapid growth recently, with its value tripling to
 
 <hr>
 <b>Source:</b> <u><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">Wikipedia/ Artificial Intelligence</a></u>
+<b>Compiled by</b> <u><a href="https://opensea.io/collection/nft-ai-opraks" target="_blank">Opraks</a></u>
