@@ -13,4 +13,4 @@
 <u><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">Wikipedia/ Artificial Intelligence</a></u>
 
 <H2>Inside Blockchain Technology (Ai)</H2>
-
+It appears as <b>NFT</b> (“Non Fungible Token”) in <b>Ai Blockchain...</b>
