@@ -23,7 +23,7 @@ The <b>NFT Market</b> has seen rapid growth recently, with its value tripling to
 - <u><a href="https://rarible.com/" target="_blank">Rarible</a></u>
 - <u><a href="https://magiceden.io/" target="_blank">Magic Eden</a></u>
 
-<h3><u>See Also</u></h3>
+<h3><u><i>See Also</i></u></h3>
 - <u><a href="https://tr.wikipedia.org/wiki/Blok_zinciri" target="_blank">Block Chain</a></u>
 - <u><a href="https://tr.wikipedia.org/wiki/Kripto_sanat" target="_blank">Crypto Art</a></u>
 - <u><a href="https://tr.wikipedia.org/wiki/Dijital_Sanat" target="_blank">Digital Art</a></u>
