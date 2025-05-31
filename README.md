@@ -1,22 +1,3 @@
-<!DOCTYPE html>
-<title>My Example</title>
-
-<style>
-  a {
-    font-size: 2em;
-    color: limegreen;
-    text-decoration: none;
-    border-bottom: 1px solid darkorange;
-  }
-  a:hover {
-    color: darkorange;
-    border-width: 3px;
-  }
-</style>
-
-<p>You can use borders to create custom underlines on hyperlinks, like this:</p>
-<p>Go to the <a target="_blank" href="https://www.quackit.com/">Quackit Homepage</a>.</p>
-
 <h1>WHAT IS ARTIFICIAL INTELLIGENCE <u>(AI)</u> IN TECHNOLOGY?</h1>
 
 <a href="https://info.flagcounter.com/00WA"><img src="https://s01.flagcounter.com/count2/00WA/bg_030000/txt_FFFFFF/border_FFFFFF/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
