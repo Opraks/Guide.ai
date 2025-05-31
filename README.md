@@ -14,3 +14,4 @@
 
 <H2>Inside Blockchain Technology (Ai)</H2>
 It appears as <b>NFT</b> (“Non Fungible Token”) in <b>Ai Blockchain...</b>
+An <b>NFT</b> is a data file that is stored on a digital ledger called the <b>Blockchain</b> and can be traded. An <b>NFT</b> can be associated with a specific asset <b><u>(digital or physical)</u></b>, such as an image, a piece of art, music, or a sports event record.
