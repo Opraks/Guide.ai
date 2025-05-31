@@ -21,8 +21,8 @@ The <b>NFT Market</b> has seen rapid growth recently, with its value tripling to
 <u><a href="https://opensea.io/" target="_blank">Opensea, </a></u> <u><a href="https://web3.okx.com/" target="_blank">Okx, </a></u> <u><a href="https://rarible.com/" target="_blank">Rarible, </a></u> <u><a href="https://magiceden.io/" target="_blank">Magic Eden</a></u>
 
 <h3><u>See Also</u></h3>
-<u><a href="https://tr.wikipedia.org/wiki/Blok_zinciri" target="_blank">Block Chain, </a></u> <u><a href="https://tr.wikipedia.org/wiki/Kripto_sanat" target="_blank">Crypto Art, </a></u> <u><a href="https://tr.wikipedia.org/wiki/Dijital_Sanat" target="_blank">Digital Art, </a></u>
-- <b>Source:</b><u><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">Wikipedia/ Artificial Intelligence</a></u>
-- <b>Compiled by</b> <u><a href="https://opensea.io/collection/nft-ai-opraks" target="_blank">Opraks</a></u>
+<a href="https://tr.wikipedia.org/wiki/Blok_zinciri" target="_blank">Block Chain, </a> <a href="https://tr.wikipedia.org/wiki/Kripto_sanat" target="_blank">Crypto Art, </a> <a href="https://tr.wikipedia.org/wiki/Dijital_Sanat" target="_blank">Digital Art, </a>
+- <b>Source:<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">Wikipedia/ Artificial Intelligence</a>
+- <b>Compiled by</b><a href="https://opensea.io/collection/nft-ai-opraks" target="_blank">Opraks</a>
 
 <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=67540d39231a330012e9230e&product=sticky-share-buttons&source=platform" async="async"></script>
