@@ -11,13 +11,5 @@
 
 <u><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">Wikipedia/ Artificial Intelligence</a></u>
 
-<hr>
-<iframe data-aa='2396715' src='//ad.a-ads.com/2396715?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-<hr>
-
 <H2>Inside Blockchain Technology (Ai)</H2>
-
-<hr>
-<iframe data-aa='2396715' src='//ad.a-ads.com/2396715?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-<hr>
 
